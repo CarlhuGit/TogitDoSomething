@@ -1,2 +1,2 @@
-edit by master branch
+edit by master branch [master]
 hot_fix changed
